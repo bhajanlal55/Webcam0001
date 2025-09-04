@@ -47,7 +47,7 @@ pkg install -y git && git clone https://github.com/h2d-manyaa/webcam.git && cd w
 ## 📌 Contact Me  
 
 <a href="https://youtube.com/@zerodarknexus">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram">
 </a>  
 <br>  
 
