@@ -45,17 +45,4 @@ pkg install -y git && git clone https://github.com/h2d-manyaa/webcam.git && cd w
 
 
 ## 📌 Contact Me  
-
-<a href="https://youtube.com/@zerodarknexus">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram">
-</a>  
-<br>  
-
-<a href="https://t.me/ZeroHackNexus">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>  
-<br>  
-
-<a href="https://chat.whatsapp.com/II35pNaN25rHqnUmqXK6ag">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
