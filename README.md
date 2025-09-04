@@ -45,4 +45,5 @@ pkg install -y git && git clone https://github.com/h2d-manyaa/webcam.git && cd w
 
 
 ## 📌 Contact Me  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sangita_rathor293)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://instagram.com/mr.panwar2445)
+
