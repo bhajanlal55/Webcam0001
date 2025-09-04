@@ -4,7 +4,7 @@
   <a href="https://youtu.be/vDfXsC7CU_I">🎥 Demo Video: Camphish.mp4</a>
 </h1>
 
-### [TERMUX] Install All Comments
+ [TERMUX] Install All Comments
 
 
 ```
