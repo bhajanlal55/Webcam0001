@@ -18,7 +18,7 @@ pkg install -y git openssh php wget
 ssh-keygen -t rsa -b 2048
 ```
 ```
-git clone https://github.com/h2d-manyaa/webcam.git
+https://github.com/bhajanlal55/Webcam0001
 ```
 ```
 cd webcam
