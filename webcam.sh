@@ -211,8 +211,8 @@ then
     echo ""
 else
     echo "Installing Cloudflared..."
-    pkg update -y
-    pkg install -y cloudflared
+    sudo apt update -y
+    sudo apt install -y cloudflared
 
     echo "Cloudflared installation complete."
 fi
