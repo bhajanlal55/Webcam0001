@@ -28,7 +28,7 @@ sudo apt install ./cloudflared.deb -y
 ```
 
 ```
-cd webcam
+cd  Webcam0001 
 ```
 ### Wishing Language change and add telegram bot
 ```
@@ -40,12 +40,6 @@ bash webcam.sh
 ```
 cd webcam && bash webcam.sh
 ```
-
-### Termux Full Install and Setup 
-```
-pkg install -y git && git clone https://github.com/h2d-manyaa/webcam.git && cd webcam && bash Lsetup.sh
-```
-
 ### Photos Seve Folder path
 ## `/storage/emulated/0/ACamPhoto/`
 
