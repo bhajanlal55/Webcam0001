@@ -13,11 +13,11 @@ echo -e "\e[1;33m    ╚███╔███╔╝███████╗█�
      ╚══╝╚══╝ ╚══════╝╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝
 \e[0m"
 echo -e "\e[1;34m  <========================================================>\e[0m\n"
-echo -e "\e[1;92m         WELCOME To Webcam\e[1;97m => \e[1;96mCreate by Mahadeb R..das          \e[0m\n"
+echo -e "\e[1;92m         WELCOME To Webcam\e[1;97m => \e[1;96mCreate by MR.PANWAR          \e[0m\n"
 echo -e "\e[1;92m  <========================================================>\e[0m"
-echo -e "\e[1;91m     YouTube Bangla\e[1;90m => \e[1;93m \e[0m"
+echo -e "\e[1;91m     YouTube \e[1;90m => \e[1;93mhttps://www.youtube.com/@BhajanlalPanwarjio\e[0m"
 echo -e "\e[1;92m  <========================================================>\e[0m"
-echo -e "\e[1;95m                       ZeroByte\e[0m"
+echo -e "\e[1;95m                      Cyber Dost\e[0m"
 echo -e "\e[1;34m  <========================================================>\e[0m\n"
 }
 
