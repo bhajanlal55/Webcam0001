@@ -21,11 +21,7 @@ ssh-keygen -t rsa -b 2048
 https://github.com/bhajanlal55/Webcam0001
 ```
 ```
-wget -O cloudflared.deb "https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64.deb"
-```
-```
-sudo apt install ./cloudflared.deb -y
-```
+
 
 ```
 cd  Webcam0001 
